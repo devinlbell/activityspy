@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ActivitySpy</string>
+    <string name="greetingMessage">Greetings, UW!</string>
+</resources>
